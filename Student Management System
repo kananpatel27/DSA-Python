@@ -1,9 +1,9 @@
-# Student Management System
+# **Student Management System**
 
 A simple **command-line Student Management System built with Python** that allows users to create, view, search, update, and delete student records. The application uses **JSON file handling** to store student information permanently.
 
 
-# Project Overview
+# **Project Overview**
 
 The Student Management System is a menu-driven Python application designed to manage student records efficiently.
 
@@ -18,7 +18,7 @@ Student data is stored in a `students.json` file, so the records remain availabl
 
 ---
 
-#Objectives
+# **Objectives**
 
 The main objectives of this project are:
 
@@ -32,7 +32,7 @@ The main objectives of this project are:
 
 ---
 
-## Features
+## **Features**
 
 ### 1. Add Student
 
@@ -159,7 +159,7 @@ A `while` loop keeps the main menu running until the user chooses Exit.
 `if`, `elif`, and `else` are used to process the user's menu choice.
 
 ---
-## CRUD Operations
+# **CRUD Operations**
 
 CRUD is one of the most important concepts demonstrated by this project.
 
@@ -173,7 +173,7 @@ CRUD is one of the most important concepts demonstrated by this project.
 
 ---
 
-## Sample Output
+# **Sample Output**
 
 ```text
 ========== STUDENT MANAGEMENT SYSTEM ==========
@@ -255,7 +255,7 @@ Student deleted successfully.
 
 ---
 
-## Data Storage
+# **Data Storage**
 
 The project stores student records in `students.json`.
 
@@ -282,7 +282,7 @@ Using JSON makes the data:
 
 ---
 
-## Error Handling
+# **Error Handling**
 
 The application includes basic error handling.
 
@@ -314,7 +314,7 @@ These checks make the application more reliable and user-friendly.
 
 ---
 
-## Program Flow
+# **Program Flow**
 
 ```text
 Start
@@ -338,7 +338,7 @@ End
 
 ---
 
-## Learning Outcomes
+# **Learning Outcomes**
 
 By completing this project, I strengthened my understanding of:
 
@@ -356,7 +356,7 @@ By completing this project, I strengthened my understanding of:
 
 ---
 
-## Future Enhancements
+## **Future Enhancements**
 
 The project can be further improved by adding:
 
@@ -373,7 +373,7 @@ The project can be further improved by adding:
 
 ---
 
-## Why I Built This Project
+# **Why I Built This Project**
 
 I developed this project to strengthen my practical Python programming skills and understand how basic data management systems work.
 
@@ -381,7 +381,7 @@ It helped me move beyond basic Python exercises and apply concepts such as **CRU
 
 ---
 
-## Project Level
+# **Project Level**
 
 **Level:** Beginner → Intermediate
 
@@ -393,7 +393,7 @@ It helped me move beyond basic Python exercises and apply concepts such as **CRU
 
 ---
 
-## Acknowledgement
+# **Acknowledgement**
 
 I would like to express my sincere gratitude to everyone who supported and guided me during the development of this project.
 
